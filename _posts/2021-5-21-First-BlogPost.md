@@ -3,4 +3,4 @@ layout: post
 title: Temp
 ---
 
-This is atemporary post.
+This is a temporary post.
