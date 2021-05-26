@@ -10,6 +10,8 @@ I find joy in numbers and patterns.I majored in _Nuclear_ _Engineering_ and _Phy
 ### More Information
 
 ![myimage](C:\Users\absel\OneDrive\Desktop\Module3)
+```{r graphics, out.width = "800px", echo = FALSE} knitr::include_graphics("C:\Users\absel\OneDrive\Desktop\Module3")
+```
 
 ### Contact me
 
