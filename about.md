@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I find joy in numbers and patterns.I majored in _Nuclear_ _Engineering_ and Physics during my Undergraduate studies and majored in Statistics during my Graduate studies. I'm a *Data-driven* person.
+I find joy in numbers and patterns.I majored in _Nuclear_ _Engineering_ and _Physics_ during my Undergraduate studies and majored in __Statistics__ during my Graduate studies. I'm a *Data-driven* person.
 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+![myimage](C:\Users\absel\OneDrive\Desktop\Module3)
 
 ### Contact me
 
