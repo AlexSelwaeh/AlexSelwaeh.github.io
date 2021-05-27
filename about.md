@@ -9,7 +9,7 @@ I find joy in numbers and patterns.I majored in _Nuclear_ _Engineering_ and _Phy
 
 ### More Information
 
-![myimage](images/lena .png)
+![myimage](images/linked.jpg)
 
 
 ### Contact me
