@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Data Scientist Vs Statisticians
+title: Experience with R  
 ---  
 New format for the second blog writing
