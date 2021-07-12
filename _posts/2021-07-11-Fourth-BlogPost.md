@@ -15,6 +15,6 @@ lessons learned: I've learned from project 1 is to start as eary as possible on 
 
 My takeaways is to never underestimate time when it comes to coding - time could easily run away especially when working on a project with a group of memebers and each member of the group is waiting on the other for their collaboration. My biggest takeaway is seing and feeling the world differently after learning that much in R and we are not done yet with the semester - R literally opens the doors of the future!
 
-Link to the repo:
+[repo link](https://alexselwaeh.github.io/ST558Project2/)
 
-https://alexselwaeh.github.io/ST558Project2/
+
